@@ -1,4 +1,4 @@
-# Fortissimo
+# Fortissimo: inscripción a clases de música presenciales en Nuevo León
 Aplicación dedicada a la publicación e inscripción de clases presenciales de música en Nuevo León.
 
 El proyecto fue desarrollado en 2017 por Víctor González, Pablo Castillo y Reynaldo Cervantes, utilizando Java como lenguaje de programación y MySQL para la base de datos.
